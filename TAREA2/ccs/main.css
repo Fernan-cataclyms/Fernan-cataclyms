@@ -172,7 +172,7 @@ margin: 20px;
     width: 80%px;
 }
 
-inframe{
+iframe{
   width: 100%;
 }
 
@@ -203,7 +203,7 @@ footer{
   font-size: 15px;
 }
 
-.footer nav ul li img{
+.footer nav ul a li img{
   width: 80px;
 }
 .footer p{
