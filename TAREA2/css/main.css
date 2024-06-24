@@ -32,7 +32,7 @@ div,li {
   text-decoration: none;
   display: flex;
   align-items: center;
-  padding: 0 20px;
+  padding:  20px;
 }
 .global_nav_item:hover {
   background: #fff;
@@ -110,7 +110,7 @@ display: flex;
   width: 35%;
 }
 
-menu{
+.menu{
   background:fixed 100% bottom url(/images/sample_menu_bg.jpg)
 }
 
@@ -172,7 +172,7 @@ margin: 20px;
     width: 80%px;
 }
 
-inframe{
+.iframe{
   width: 100%;
 }
 
@@ -203,7 +203,7 @@ footer{
   font-size: 15px;
 }
 
-.footer nav ul li img{
+.footer nav ul a li img{
   width: 80px;
 }
 .footer p{
