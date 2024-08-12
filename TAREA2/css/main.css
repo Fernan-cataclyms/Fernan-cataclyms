@@ -72,14 +72,14 @@ div,li {
   margin-bottom: 50px;
 }
 
-.section_title_content{
+.section_tittle_content{
 display: flex;
   justify-content: space-between;
 }
-.section_title_content p{
+.section_tittle_content p{
   width: 60%;
 }
-.section_title_content img{
+.section_tittle_content img{
   width: 35%;
 }
 .menu_title {
@@ -101,13 +101,6 @@ display: flex;
 .section_inner_maicontent{
   justify-content: space-between;
   display: flex;
-}
-.section_inner_maicontent p{
-  width: 60%;
-}
-
-.section_inner_maicontent img{
-  width: 35%;
 }
 
 .menu{
