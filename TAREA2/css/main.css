@@ -104,7 +104,8 @@ display: flex;
 }
 
 .menu{
-  background:fixed 100% bottom url(/images/sample_menu_bg.jpg)
+background: url(/images/sample_menu_bg.jpg) no-repeat fixed bottom;
+  background-size: cover;
 }
 
 .pancakes ul{
