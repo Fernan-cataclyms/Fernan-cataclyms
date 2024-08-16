@@ -105,7 +105,7 @@ display: flex;
 }
 
 .menu{
-  background: url(/images/sample_menu_bg.jpg) no-repeat fixed bottom;
+  background: url(/images/sample_menu_bg.pg) no-repeat fixed bottom;
   background-size: cover;
 }
 
